@@ -11,6 +11,7 @@
 - [Ubersuggest](https://ubersuggest.com/) - Free SEO tool specializing in generating keyword ideas.
 - [Woorank](https://www.woorank.com/pt/) - Tests your website according to more than 70 SEO criteria.
 - [OptimalUX](https://optimalux.com/seo-patching) - Real-time SEO patching and A/B testing for flawless web experiments.
+- [PageGuard](https://pageguard.org/) - Free website health scanner for SEO, accessibility (WCAG/ADA), and performance — instant audit with AI-powered recommendations.
 
 ## **Content and Social Media**
 - [Buzzsumo](https://app.buzzsumo.com) - Analyze which content performs best for any topic or competition.
